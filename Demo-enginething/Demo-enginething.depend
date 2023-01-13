@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1670258828 source:c:\users\llego\desktop\microcontroller\projects\demo-enginething\fuse.c
+	<avr/io.h>
+
+1671544126 source:c:\users\llego\desktop\microcontroller\projects\demo-enginething\main.c
+	<avr/io.h>
+	<util/delay.h>
+	<avr/interrupt.h>
+	"h_bridge.h"
+	"h_bridge.c"
+
+1664282828 c:\users\llego\desktop\microcontroller\projects\demo-enginething\h_bridge.h
+
+1664282828 c:\users\llego\desktop\microcontroller\projects\demo-enginething\h_bridge.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	"h_bridge.h"
+
