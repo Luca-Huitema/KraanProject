@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1674563678 source:c:\users\llego\desktop\microcontroller\projects\portaalkraan_definitief\fuse.c
+	<avr/io.h>
+
