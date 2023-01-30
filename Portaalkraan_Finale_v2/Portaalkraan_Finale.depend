@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1674682369 source:c:\users\llego\desktop\microcontroller\projects\portaalkraan_finale\fuse.c
+	<avr/io.h>
+
+1675081560 source:c:\users\llego\desktop\microcontroller\projects\portaalkraan_finale\main.c
+	<avr/io.h>
+	<util/delay.h>
+	<avr/interrupt.h>
+	"h_bridge.h"
+	"h_bridge.c"
+
+1664282828 c:\users\llego\desktop\microcontroller\projects\portaalkraan_finale\h_bridge.h
+
+1664282828 c:\users\llego\desktop\microcontroller\projects\portaalkraan_finale\h_bridge.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	"h_bridge.h"
+
